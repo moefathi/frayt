@@ -95,5 +95,10 @@ These are **projections based on the team's assumptions**, not results.
 ## Team
 Group Al-Ashira: Mohammed Al-haj, Mohammad Aldeghemat, Osamah Alsaghir, Salaheddin Alreemawi
 
+## Project Information
+- **Project Type:** Academic Project
+- **Course:** Entrepreneurship Bootcamp
+- **Semester:** Spring 2026
+
 ## License
 © 2026 Group Al-Ashira. All rights reserved.
