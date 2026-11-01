@@ -46,9 +46,6 @@ An interactive **mobile web app** covering both sides of the transaction. It sim
 - Unique, single-use QR code generated per transaction
 - Daily counter of QR codes scanned and total change
 
-| Home | Scan to receive change | Merchant |
-|---|---|---|
-| ![Home](assets/prototype/home.png) | ![Scan](assets/prototype/scan.png) | ![Merchant](assets/prototype/merchant.png) |
 
 ### Planned, not implemented
 Real payment processing, CBJ e-wallet licence, eFAWATEERcom and JoPACC open-finance integration, POS integration, iOS/Android apps, wallet transfers and cash withdrawal, and the proposed ride-hailing (e.g. Uber) integration.
